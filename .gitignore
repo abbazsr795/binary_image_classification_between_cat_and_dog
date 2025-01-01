@@ -1,0 +1,10 @@
+
+# Ignore all `.env` files
+*.env
+
+# Ignore specific files
+database_config.json
+
+# Ignore specific folder
+data/
+env/
